@@ -1,0 +1,52 @@
+/* h1,
+h2,
+h3,
+h4 {
+  background-color: blueviolet;
+}
+p {
+  background-color: tomato;
+}
+a {
+  background-color: olive;
+}
+button {
+  background-color: orange;
+}
+img {
+  background-color: orangered;
+}
+ul {
+  background-color: aqua;
+}
+ol {
+  background-color: blue;
+}
+li {
+  background-color: aquamarine;
+}
+header {
+  background-color: bisque;
+}
+footer {
+  background-color: beige;
+} */
+/* header */
+.header-page {
+}
+.header-nav {
+}
+.header-nav-list {
+}
+.header-nav-item {
+}
+.header-social-list {
+}
+.header-social-item {
+}
+/* main */
+.main-page {
+}
+.prodact-list {
+}
+/* footer */
