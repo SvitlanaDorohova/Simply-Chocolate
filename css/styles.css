@@ -1,52 +1,178 @@
-/* h1,
-h2,
-h3,
-h4 {
-  background-color: blueviolet;
-}
-p {
-  background-color: tomato;
-}
-a {
-  background-color: olive;
-}
-button {
-  background-color: orange;
-}
-img {
-  background-color: orangered;
-}
-ul {
-  background-color: aqua;
-}
-ol {
-  background-color: blue;
-}
-li {
-  background-color: aquamarine;
-}
-header {
-  background-color: bisque;
-}
-footer {
-  background-color: beige;
-} */
-/* header */
+/* #region header */
 .header-page {
 }
 .header-nav {
+}
+.header-logo {
+}
+.logo-icon {
 }
 .header-nav-list {
 }
 .header-nav-item {
 }
+.header-nav-linc {
+}
 .header-social-list {
 }
 .header-social-item {
 }
-/* main */
+.header-social-linc {
+}
+.header-social-icon {
+}
+/* #endregion */
+
 .main-page {
 }
-.prodact-list {
+/* #region hero */
+.hero-section {
 }
-/* footer */
+.hero-title {
+}
+.btn {
+}
+.btn-accent {
+}
+.btn-primary {
+}
+.scroll-down {
+}
+.scroll-down-icon {
+}
+.benefits {
+}
+/* #endregion */
+
+/* #region benefits */
+.benefits-visually-hidden {
+}
+.benefits-list {
+}
+.benefits-item {
+}
+.benefits-subtitle {
+}
+.benefits-text {
+}
+/* #endregion */
+
+/* #region ingridients */
+.ingridient {
+}
+.ingridient-title {
+}
+.section-title {
+}
+.section-title-accent {
+}
+.ingridient-list {
+}
+.ingridient-item {
+}
+.ingridient-subtitle {
+}
+/* #endregion */
+
+/* #region made */
+.made {
+}
+.made-title {
+}
+.made-img {
+}
+.made-subtitle {
+}
+.made-list {
+}
+.made-item {
+}
+/* #endregion */
+
+/* #region products */
+.products {
+}
+.products-title {
+}
+.products-list {
+}
+.products-item {
+}
+.products-img {
+}
+.products-subtitle {
+}
+.products-text {
+}
+.products-btn {
+}
+/* #endregion */
+
+/* #region bestsellers */
+.bestsellers {
+}
+.bestsellers-title {
+}
+.bestsellers-list {
+}
+.bestsellers-item {
+}
+.bestsellers-img {
+}
+.bestsellers-subtitle {
+}
+/* #endregion */
+
+/* #region reviews */
+.reviews {
+}
+.reviews-title {
+}
+.reviews-list {
+}
+.reviews-item {
+}
+.reviews-avatar {
+}
+.reviews-author {
+}
+.reviews-desc {
+}
+.btn-secondary {
+}
+/* #endregion */
+
+/* #region footer */
+.footer {
+}
+.footer-slogan {
+}
+.footer-slogan-accent {
+}
+.footer-caption {
+}
+.footer-socials {
+}
+.socials {
+}
+.footer-social-item {
+}
+.footer-socials-link {
+}
+.footer-socials-icon {
+}
+.footer-contacts {
+}
+.footer-contacts-list {
+}
+.footer-contacts-item {
+}
+.footer-contacts-link {
+}
+.footer-nav-list {
+}
+.footer-nav-item {
+}
+.footer-nav-linc {
+}
+/* #endregion */
