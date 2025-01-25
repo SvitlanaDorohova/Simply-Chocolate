@@ -473,8 +473,10 @@ button {
 .reviews {
   padding-bottom: 120px;
 }
+
 .reviews-title {
 }
+
 .reviews-list {
   display: flex;
   gap: 28px;
@@ -499,10 +501,8 @@ button {
   text-align: center;
 }
 .reviews-desc {
-  width: 312px;
-  height: 72px;
   font-size: 14px;
-  line-height: 1.28;
+  line-height: 1.29;
   letter-spacing: -0.02em;
   text-align: center;
   color: rgba(17, 17, 17, 0.7);
@@ -520,6 +520,13 @@ button {
   padding: 50px 0;
   background: #1e1823;
 }
+
+.footer-top {
+  display: flex;
+  padding-bottom: 50px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
 .footer-slogan {
   width: 300px;
   color: #fff;
